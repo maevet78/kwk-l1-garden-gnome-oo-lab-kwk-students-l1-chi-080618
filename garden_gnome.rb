@@ -21,7 +21,7 @@ class GardenGnome
     @gluten_allergy
   end  
   
-  def initialize (personality = "evil")
+  def initialize(personality = "evil")
     @personality = personality
   end   
 end  
